@@ -4,7 +4,7 @@ body {
 
 nav {
   display: flex;
-  background-color: #D3D3D3;
+  background-color: #03fcd7;
   font-size: 15px;
   color: white; }
 
@@ -15,12 +15,16 @@ li {
 
 article.Content {
   display: flex;
-  flex-flow: row;
-  justify-content: space-around; }
+  justify-content: space-around;
+  align-items: center; }
 
 img {
-  max-width: 200px;
-  max-height: 200px; }
+  width: 300px;
+  height: 200px; }
+
+div.Row {
+  max-height: 80%;
+  max-width: 80%; }
 
 footer {
   display: flex;
