@@ -1,3 +1,29 @@
+body {
+  background-image: -webkit-linear-gradient(#BEF5E8, #FF9999);
+  font-family: arial; }
 
+nav {
+  display: flex;
+  background-color: #D3D3D3;
+  font-size: 15px;
+  color: white; }
+
+li {
+  display: flex inline;
+  flex-flow: row;
+  justify-content: space-around; }
+
+article.Content {
+  display: flex;
+  flex-flow: row;
+  justify-content: space-around; }
+
+img {
+  max-width: 200px;
+  max-height: 200px; }
+
+footer {
+  display: flex;
+  border-top: 2px solid black; }
 
 /*# sourceMappingURL=Photo_gallery.css.map */
