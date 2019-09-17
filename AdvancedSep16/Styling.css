@@ -1,0 +1,11 @@
+body {
+  background: #97c7f8;
+  margin: 0px 20px; }
+
+.navBar a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  text-transform: capitalize; }
+
+/*# sourceMappingURL=Styling.css.map */
